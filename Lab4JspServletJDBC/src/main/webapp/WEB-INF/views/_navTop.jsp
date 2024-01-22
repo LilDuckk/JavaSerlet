@@ -14,6 +14,14 @@
 		align-items: center;
 		list-style: none;
 	}
+	
+	nav ul li a{
+		color: #fff;
+		display: block;
+		padding: 1rem;
+		text-decoration: none;
+	}
+	
 	nav ul li:first-child a{
 		padding-left: 0 !important;
 	}
