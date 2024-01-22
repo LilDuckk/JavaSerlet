@@ -10,6 +10,7 @@ public class ConnectionUtils {
 		String userName = "root";
 		String password = "";
 		String connectionURL = "jdbc:mysql://" + hostName +	":3306/" + dbName;
+		Class.forName("com.mysql.jdbc.Driver");
 		Connection conn = DriverManager.getConnection(connectionURL,userName,password);
 		return conn;
 	}

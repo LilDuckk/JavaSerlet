@@ -1,6 +1,0 @@
-package Vietpackage.jbdc;
-import java.sql.*;
-
-public class ConnectionUtil {
-	public static Connection getMySQLConnection() throw SQLException,
-}

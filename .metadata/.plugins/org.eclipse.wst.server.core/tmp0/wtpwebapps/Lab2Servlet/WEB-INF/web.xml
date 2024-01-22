@@ -3,7 +3,7 @@
   <display-name>Lab2Servlet</display-name>
   <servlet>
   	<servlet-name>HelloServlet</servlet-name>
-  	<servlet-class>vietdepzai.HelloServlet</servlet-class>
+  	<servlet-class>vietdepzai.jdbc.HelloServlet</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>HelloServlet</servlet-name>
