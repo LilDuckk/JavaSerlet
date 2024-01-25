@@ -53,9 +53,9 @@ public class ProductUtils {
 	public static void updateProduct(Connection conn, Product product) throws SQLException  {
 		String sql = "Update Product set Name =?, Price=? where Code=?";
 		PreparedStatement pstm = conn.prepareStatement(sql);
-		pstm.setString(1,  product.getCode());
-		pstm.setString(2, product.getName());
-		pstm.setFloat(3, product.getPrice());
+		pstm.setString(1, product.getName());
+		pstm.setFloat(2, product.getPrice());
+		pstm.setString(3,  product.getCode());
 		pstm.executeUpdate();
 	}
 	

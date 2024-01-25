@@ -25,7 +25,7 @@ public class productListServlet extends HttpServlet {
 	}
 	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		Connection conn=null;
+		Connection conn = null;
 		String errorString = null;
 		List<Product> list = null;
 		try {

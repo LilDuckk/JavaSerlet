@@ -12,7 +12,7 @@
 		<jsp:include page="_header.jsp"></jsp:include>
 		<jsp:include page="_navTop.jsp"></jsp:include>
 		
-		<section class="conatainer">
+		<section class="container">
 			<h3>Product List</h3>
 			<p style="color: red;">${errorString }</p>
 			<table class="table table-bordered">
