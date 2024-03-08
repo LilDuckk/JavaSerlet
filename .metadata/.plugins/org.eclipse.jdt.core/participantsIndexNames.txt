@@ -3,3 +3,5 @@ C:\Users\Viet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jsps
 \Lab4JspServletJDBC\src\main\java
 C:\Users\Viet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1688465784.index
 \HelloWorld\src\main\java
+C:\Users\Viet\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2529347881.index
+\NguyenNgocViet_2110900054\src\main\java

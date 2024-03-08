@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generated Mar 4, 2024, 10:26:41 AM by Hibernate Tools 5.6.15.Final --><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class catalog="Lab05_Hibernate" name="vietdepzai.entity.Product" optimistic-lock="none" schema="dbo" table="Product">
+        <id name="maSP" type="java.lang.String">
+            <column name="MaSP"/>
+            <generator class="assigned"/>
+        </id>
+        <property name="tenSanPham" type="java.lang.String">
+            <column name="TenSanPham"/>
+        </property>
+        <property name="anhSanPham" type="java.lang.String">
+            <column name="AnhSanPham"/>
+        </property>
+        <property name="soLuong" type="java.lang.Integer">
+            <column name="SoLuong"/>
+        </property>
+        <property name="donGia" type="java.lang.Double">
+            <column name="DonGia" precision="53" scale="0"/>
+        </property>
+        <property name="trangThai" type="java.lang.Boolean">
+            <column name="TrangThai"/>
+        </property>
+    </class>
+</hibernate-mapping>

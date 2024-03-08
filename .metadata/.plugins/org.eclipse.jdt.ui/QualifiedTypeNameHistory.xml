@@ -3,8 +3,6 @@
     <fullyQualifiedTypeName name="java.sql.Statement"/>
     <fullyQualifiedTypeName name="javax.swing.text.AbstractDocument.Content"/>
     <fullyQualifiedTypeName name="java.io.PrintWriter"/>
-    <fullyQualifiedTypeName name="java.beans.Statement"/>
-    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
     <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
     <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
     <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
@@ -12,8 +10,17 @@
     <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="vietlaidepzai.jdbc.Product"/>
-    <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="vietdepzai.conn.ConnectionUtils"/>
     <fullyQualifiedTypeName name="vietsieudepzai.utils.ProductUtils"/>
     <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.beans.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="nguyenngocviet.conn.nguyenngocvietConnection.ConnectionUtils"/>
+    <fullyQualifiedTypeName name="nguyenngocviet.beans.NguyenNgocViet_2110900054_Product.Product"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="nguyenngocviet.beans.NguyenNgocViet_2110900054_Product"/>
+    <fullyQualifiedTypeName name="nguyenngocviet.conn.nguyenngocvietConnection"/>
+    <fullyQualifiedTypeName name="nguyenngocviet.utils.nguyenngocviet_ProductUtils"/>
 </qualifiedTypeNameHistroy>
